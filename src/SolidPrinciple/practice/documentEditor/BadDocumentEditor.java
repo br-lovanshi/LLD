@@ -1,4 +1,4 @@
-package SolidPrinciple.practice;
+package SolidPrinciple.practice.documentEditor;
 
 import java.io.FileWriter;
 import java.io.IOException;

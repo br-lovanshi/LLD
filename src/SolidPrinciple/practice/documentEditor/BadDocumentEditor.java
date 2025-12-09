@@ -26,6 +26,7 @@ class DocumentEditor{
         elements.add(text);
     }
 
+
     public void addImage(String image){
         elements.add(image);
     }
